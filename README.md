@@ -1,6 +1,14 @@
 # Clínica - CRE
 
-Projeto apresentado pelo professor **[Hudson Neves](https://github.com/HudsonNeves)** com o objetivo de criar um sistema de gerenciamento para uma clínica médica, desenvolvido em linguagem **C**. Este projeto abrange desde a concepção inicial até a implementação de funcionalidades essenciais para o bom funcionamento e organização de uma clínica.
+**SENAC DF – Centro de Educação Profissional Jó Rufino e Carlos Aguiar – Taguatinga**  
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Turma:** 2025.08.53  
+**Unidade Curricular:** UC 4 – Analisar Programação Estruturada e Orientada a Objetos  
+**Professor Orientador:** **[Hudson Neves](https://github.com/HudsonNeves)**  
+
+**Aluno(a):** - [William Willam](https://github.com/William-Willam)  [guizera0701](https://github.com/guizera0701) [Luís Eduardo](https://github.com/xnigthking) [João Vitor](https://github.com/joao2740)
+**Data:** 26/06/2025
+
 
 ---
 
@@ -44,12 +52,12 @@ Projeto apresentado pelo professor **[Hudson Neves](https://github.com/HudsonNev
 
 2. Compile o projeto utilizando um compilador C de sua preferência:
    ```bash
-   gcc main.c -o clinica
+   gcc clinica.c -o clinica.exe
    ```
 
 3. Execute o sistema:
    ```bash
-   ./clinica
+   ./clinica.exe
    ```
 
 ---
@@ -59,6 +67,7 @@ Projeto apresentado pelo professor **[Hudson Neves](https://github.com/HudsonNev
 - [William Willam](https://github.com/William-Willam)
 - [guizera0701](https://github.com/guizera0701)
 - [Luís Eduardo](https://github.com/xnigthking)
+- [João Vitor](https://github.com/joao2740)
 
 ---
 
