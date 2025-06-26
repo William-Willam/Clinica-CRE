@@ -6,9 +6,7 @@
 **Unidade Curricular:** UC 4 – Analisar Programação Estruturada e Orientada a Objetos  
 **Professor Orientador:** **[Hudson Neves](https://github.com/HudsonNeves)**  
 
-**Aluno(a):** - [William Willam](https://github.com/William-Willam)
-**Aluno(a):** - [guizera0701](https://github.com/guizera0701)
-**Aluno(a):** - [Luís Eduardo](https://github.com/xnigthking)
+**Aluno(a):** - [William Willam](https://github.com/William-Willam)  [guizera0701](https://github.com/guizera0701) [Luís Eduardo](https://github.com/xnigthking) [João Vitor](https://github.com/joao2740)
 **Data:** 26/06/2025
 
 
@@ -69,6 +67,7 @@
 - [William Willam](https://github.com/William-Willam)
 - [guizera0701](https://github.com/guizera0701)
 - [Luís Eduardo](https://github.com/xnigthking)
+- [João Vitor](https://github.com/joao2740)
 
 ---
 
