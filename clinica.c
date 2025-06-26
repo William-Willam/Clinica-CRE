@@ -110,10 +110,11 @@ int main() {
     int logged_in_id = -1; // Armazena o ID do usuário logado (médico ou funcionário de recepção)
 
     // Mensagem de Boas-Vindas
-    printf("=====================================================================\n");
-    printf("                  BEM-VINDO A CLINICA CRE                            \n");
-    printf("          Tratamento especializado para jogadores profissionais e amadores \n");
-    printf("=====================================================================\n");
+    system("cls");
+    printf("=====================================================================================\n");
+    printf("                            BEM-VINDO A CLINICA CRE                                  \n");
+    printf("          Tratamento especializado para jogadores profissionais e amadores           \n");
+    printf("=====================================================================================\n");
     printf("\n");
 
     int tentativas = 0;
